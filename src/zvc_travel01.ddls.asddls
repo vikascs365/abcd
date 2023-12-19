@@ -27,5 +27,5 @@ association [1] to zvI_Agency as _agency
 // travel.lastchangedat as Lastchangedat,   
     _agency, // Make association public
     _customer,
-    _currency
+    _currency    //exposed Association
 }
